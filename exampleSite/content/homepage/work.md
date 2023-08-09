@@ -1,5 +1,5 @@
 ---
-title: 'We Help Business Grow'
+title: 'Our Mission'
 weight: 1
 background: 'images/kevin-bhagat-461952-unsplash.jpg'
 button: 'About'
