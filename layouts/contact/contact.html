@@ -17,13 +17,13 @@
     <div class="col-12 col-md-8">
       {{ .Content }}
       <ul>
-        {{ if .Site.Data.contact.cell-phone }}
-<!--         <li><strong>Phone: </strong>{{ .Site.Data.contact.cell-phone }}</li> -->
-        <li><strong>Cell Phone: </strong> <br/> <a href="{{ .Site.Data.contact.cell-phone }}">(814) 720-0772</a></li>
+        {{ if .Site.Data.contact.cell_phone }}
+<!--         <li><strong>Phone: </strong>{{ .Site.Data.contact.cell_phone }}</li> -->
+        <li><strong>Cell Phone: </strong> <br/> <a href="{{ .Site.Data.contact.cell_phone }}">(814) 720-0772</a></li>
         {{ end }}
-        {{ if .Site.Data.contact.work-phone }}
-<!--         <li><strong>Phone: </strong>{{ .Site.Data.contact.work-phone }}</li> -->
-        <li><strong>Work Phone: </strong> <br/> <a href="{{ .Site.Data.contact.work-phone }}">(814) 587-3294</a></li>
+        {{ if .Site.Data.contact.work_phone }}
+<!--         <li><strong>Phone: </strong>{{ .Site.Data.contact.work_phone }}</li> -->
+        <li><strong>Work Phone: </strong> <br/> <a href="{{ .Site.Data.contact.work_phone }}">(814) 587-3294</a></li>
         {{ end }}
         {{ if .Site.Data.contact.email }}
         <li><strong>Email: </strong><a href="mailto:{{ .Site.Data.contact.email }}">
