@@ -1,6 +1,6 @@
 baseURL = "https://www.example.com/"
 languageCode = "en-us"
-title = "Hugo Hero Theme"
+title = "David Lasch HVAC"
 theme = "hugo-hero-theme"
 
 [module]
@@ -16,8 +16,8 @@ theme = "hugo-hero-theme"
     mobile_height = "36px"
     mobile_width = "36px"
     desktop = "images/logo.svg"
-    desktop_height = "29px"
-    desktop_width = "217px"
+    desktop_height = "60px"
+    desktop_width = "215px"
     alt = "Hugo Hero"
 
   [params.homepage_meta_tags]
