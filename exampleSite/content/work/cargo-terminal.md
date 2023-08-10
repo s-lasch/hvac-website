@@ -1,10 +1,10 @@
 ---
-title: 'Cargo Terminal'
+title: 'Ductless'
 date: 2018-11-18T12:33:46+10:00
 draft: false
 weight: 3
-heroHeading: 'Cargo Terminal'
-heroSubHeading: 'Dockyard construction planning and review.'
+heroHeading: 'Ductless'
+heroSubHeading: 'Efficient and flexible cooling and heating solutions.'
 heroBackground: 'https://source.unsplash.com/tjX_sniNzgQ/1600x400'
 thumbnail: 'https://source.unsplash.com/tjX_sniNzgQ/400x300'
 images: ['https://source.unsplash.com/random/400x600/?nature', 
