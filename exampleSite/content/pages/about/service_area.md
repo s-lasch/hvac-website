@@ -2,7 +2,7 @@
 title: 'Our Dedicated Service Area'
 weight: 2
 date: 2018-12-06T09:29:16+10:00
-background: 'https://images.unsplash.com/photo-1614447413576-b346c641c128?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2670&q=80'
+background: ''
 align: left
 ---
 
@@ -15,4 +15,4 @@ align: left
 <br/>
 At David Lasch Heating and AC, we're committed to serving the communities and fellow small businesses of Crawford County, Mercer County, and Erie County. Our presence is rooted in these areas, ensuring that you receive personalized HVAC solutions tailored to your specific needs. With a loyal clientele and customer base whom I wouldn't have made it this far without, we've become an integral part of these communities. Your trust and support have been instrumental in our journey, and we look forward to continuing this legacy of expertise, commitment, and satisfaction. 
 <br/>
-> *— David Lasch, owner and founder of David Lasch Heating & A/C*
+<blockquote><i>— David Lasch, owner and founder of David Lasch Heating & A/C</i></blockquote>blockquote>
