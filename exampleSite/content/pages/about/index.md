@@ -11,7 +11,7 @@ heroBackground: 'https://source.unsplash.com/sO-JmQj95ec/1600x1000'
 {{< content-strip-left "/pages/about" "background" >}}
 </div>
 <div>
-{{< content-strip-right "/pages/about" "content2" >}}
+{{< content-strip-right "/pages/about" "service_area" >}}
 </div>
 <div>
 {{< content-strip-center "/pages/about" "call_now" >}}
