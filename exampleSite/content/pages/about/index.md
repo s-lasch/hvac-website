@@ -8,7 +8,7 @@ heroBackground: 'https://source.unsplash.com/sO-JmQj95ec/1600x1000'
 ---
 
 <div>
-{{< content-strip-left "/pages/about" "content1" >}}
+{{< content-strip-left "/pages/about" "background" >}}
 </div>
 <div>
 {{< content-strip-right "/pages/about" "content2" >}}
