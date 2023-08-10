@@ -6,7 +6,7 @@ draft: false
 featured: true
 weight: 2
 heroHeading: 'Light Commercial'
-heroSubHeading: 'We offer light commercial heating and cooling for businesses around Conneaut Lake, Linesville, Meadville, Conneautville, and surrounding areas.'
+heroSubHeading: 'We offer light commercial heating and cooling for businesses around the Conneaut Lake, Linesville, Meadville, Conneautville, and surrounding areas.'
 heroBackground: 'services/service2.jpg'
 ---
 
