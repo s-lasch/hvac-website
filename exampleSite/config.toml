@@ -7,6 +7,9 @@ theme = "hugo-hero-theme"
   [module.hugoVersion]
     extended = true
     min = "0.92.0"
+
+[markup.goldmark.renderer]
+  unsafe= true
     
 [params]
   google_analytics_id=""
