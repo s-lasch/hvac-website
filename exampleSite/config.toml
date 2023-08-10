@@ -38,7 +38,7 @@ theme = "hugo-hero-theme"
 
 [[menu.main]]
     name = "Appliances"
-    url = "/appliances/"
+    url = "/work/"
     weight = 2
 
 [[menu.main]]
