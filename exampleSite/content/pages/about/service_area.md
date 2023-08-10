@@ -11,4 +11,6 @@ align: left
 **Counties:** Crawford, Mercer, and Erie
 **Towns:** Cambridge Springs, Meadville, Saegertown, Conneautville, Conneaut Lake, Springboro, Linesville, and surrounding areas.
 
-At David Lasch Heating and AC, we're committed to serving the communities and fellow small businesses of Crawford County, Mercer County, and Erie County. Our presence is rooted in these areas, ensuring that you receive personalized HVAC solutions tailored to your specific needs. With a loyal clientele and customer base whom I wouldn't have made it this far without, we've become an integral part of these communities. Your trust and support have been instrumental in our journey, and we look forward to continuing this legacy of expertise, commitment, and satisfaction.
+At David Lasch Heating and AC, we're committed to serving the communities and fellow small businesses of Crawford County, Mercer County, and Erie County. Our presence is rooted in these areas, ensuring that you receive personalized HVAC solutions tailored to your specific needs. With a loyal clientele and customer base whom I wouldn't have made it this far without, we've become an integral part of these communities. Your trust and support have been instrumental in our journey, and we look forward to continuing this legacy of expertise, commitment, and satisfaction.  
+<br/>
+> *— David Lasch, owner and founder of David Lasch Heating & A/C*
