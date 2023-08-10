@@ -3,9 +3,12 @@ cell_phone: 'tel:+18147200772'
 businessName: 'David Lasch Heating & A/C'
 address: ''
 hours:
-  - day: Monday–Saturday
-    open: 9:00am
+  - day: Monday–Friday
+    open: 8:00am
     close: 5:00pm
-  - day: Sunday
-    open: Closed
+  - day: Saturday
+    open: After hours
     close:
+  - day: Sunday
+    open: After hours
+    close: 
