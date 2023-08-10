@@ -6,7 +6,7 @@ featured: true
 draft: false
 weight: 100
 heroHeading: 'Services'
-heroSubHeading: 'Services that grow with your business'
+heroSubHeading: 'We offer a variety of services, including maintenance, installations, and repairs.'
 heroBackground: 'services/service1.jpg'
 ---
 
