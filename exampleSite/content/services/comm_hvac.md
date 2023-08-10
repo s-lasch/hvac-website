@@ -1,14 +1,15 @@
 ---
-title: 'Tax Filing'
+title: 'Commercial Heating & Cooling'
 date: 2018-11-18T12:33:46+10:00
 icon: 'services/service-icon-6.png'
 draft: false
 featured: true
 weight: 2
-heroHeading: 'Tax Filing '
-heroSubHeading: 'Preparing and filing your tax return'
+heroHeading: 'Commercial'
+heroSubHeading: 'We offer light commercial heating and cooling for businesses around Conneaut Lake, Linesville, Meadville, Conneautville, and surrounding areas.'
 heroBackground: 'services/service2.jpg'
 ---
+
 
 Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
 clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
