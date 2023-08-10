@@ -37,14 +37,19 @@ theme = "hugo-hero-theme"
     weight = 1
 
 [[menu.main]]
+    name = "Appliances"
+    url = "/appliances/"
+    weight = 2
+
+[[menu.main]]
     name = "Services"
     url = "/services/"
-    weight = 2
+    weight = 3
 
 [[menu.main]]
     name = "Contact"
     url = "/contact/"
-    weight = 3
+    weight = 4
 
 # [[menu.main]]
 #     name = "History"
