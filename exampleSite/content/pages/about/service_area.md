@@ -9,8 +9,9 @@ align: left
 <style>
   .opaque-gray-div {
     background: linear-gradient(rgba(230, 227, 227, 0.2), rgba(128, 128, 128, 0.75));
-    width: 100%;
+    width: 500px;
     height: 700px;
+    padding: 10px;
   }
 </style>
 
