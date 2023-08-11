@@ -1,7 +1,7 @@
 ---
 title: 'Quality Appliances'
 weight: 1
-background: 'images/kevin-bhagat-461952-unsplash.jpg'
+background: 'https://source.unsplash.com/BtbjCFUvBXs/1600x400'
 button: 'View Products'
 buttonLink: 'appliances'
 ---
