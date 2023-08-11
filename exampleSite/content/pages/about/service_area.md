@@ -7,8 +7,8 @@ align: left
 ---
 
 <style>
-  .opaque-gray-div {{
-    background: linear-gradient(rgba(230, 227, 227, 0.2), rgba(128, 128, 128, 0.5));
+  .opaque-gray-div {
+    background: linear-gradient(rgba(230, 227, 227, 0.2), rgba(128, 128, 128, 0.75));
     width: 100%;
     height: 700px;
   }
