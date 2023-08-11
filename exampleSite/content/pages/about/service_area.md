@@ -6,18 +6,8 @@ background: 'https://source.unsplash.com/_v-EHHKKW3w/1600x700'
 align: left
 ---
 
-<style>
-  .opaque-gray-div {
-    background: linear-gradient(rgba(230, 227, 227, 0.2), rgba(128, 128, 128, 0.75));
-    width: 100%;
-    height: auto;
-    padding: 10px; /* Add text padding */
-    border-radius: 15px; /* Add rounded corners */
-  }
-</style>
 
-<div class="opaque-gray-div">
-  <p>Serving <b>Cambridge Springs</b>, <b>Meadville</b>, <b>Saegertown</b>, <b>Conneautville</b>, <b>Conneaut Lake</b>, <b>Springboro</b>, <b>Linesville</b>, and surrounding areas, David Lasch Heating & A/C is dedicated to providing quality HVAC solutions for residences and fellow small businesses in Crawford, Mercer, and Erie Counties. With strong community ties, loyal clients, and a legacy of expertise, commitment, and satisfaction, I am grateful for the trust and support that drives my business forward.</p>
+Serving **Cambridge Springs**, **Meadville**, **Saegertown**, **Conneautville**, **Conneaut Lake**, **Springboro**, **Linesville**, and surrounding areas, David Lasch Heating & A/C is dedicated to providing quality HVAC solutions for residences and fellow small businesses in Crawford, Mercer, and Erie Counties. With strong community ties, loyal clients, and a legacy of expertise, commitment, and satisfaction, I am grateful for the trust and support that drives my business forward.
 <br/>
 <blockquote><i>— David Lasch, owner and founder of David Lasch Heating & A/C</i></blockquote>
 </div>
