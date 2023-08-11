@@ -2,13 +2,13 @@
 title: 'Three Decades of HVAC Excellence'
 date: 2018-12-06T09:29:16+10:00
 weight: 1
-background: 'https://source.unsplash.com/R3NHzeb0XZ8/1500x900'
+background: 'https://source.unsplash.com/ZWT7Iwar1es/1600x900'
 align: right
 ---
 
 <style>
   .opaque-gray-div {
-    background: rgba(200,200,200,.55);
+    background: rgba(180,180,180,.8);
     width: 100%;
     height: auto;
     padding: 10px; /* Add text padding */
