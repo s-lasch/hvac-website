@@ -6,4 +6,4 @@ button: 'About Us'
 buttonLink: 'about'
 ---
 
-Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. ipsum dolor sit amet, et essent mediocritatem quo,
+Established **over 30 years ago**, David Lasch Heating & AC is committed to providing ultimate comfort for residences and light commercial properties in Northwestern PA.
