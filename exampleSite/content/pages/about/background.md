@@ -8,7 +8,7 @@ align: right
 
 <style>
   .opaque-gray-div {
-    background: linear-gradient(to left, rgba(245, 240, 240, 0.2), rgba(245, 240, 240, 0.75));
+    background: rgba(200,200,200,.55);
     width: 100%;
     height: auto;
     padding: 10px; /* Add text padding */
