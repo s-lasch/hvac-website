@@ -2,12 +2,8 @@
 title: 'Our Mission'
 weight: 1
 background: 'images/kevin-bhagat-461952-unsplash.jpg'
-button: 'About'
-buttonLink: 'about'
+button: 'View Products'
+buttonLink: 'appliances'
 ---
 
-### Heating
-Proper heater repair and regular maintenance are crucial, whether winter is approaching or already present. Timely professional maintenance guarantees comfort and happiness indoors during the upcoming winter season and for the years ahead.
-
-### Cooling
-In anticipation of the summer months, a malfunctioning air conditioning unit shouldn't be a concern. Partnering with a professional HVAC company is essential to ensure that everything operates smoothly, enhancing the comfort and convenience of you and your family during hot weather.
+We offer a variety of advanced HVAC appliances, from cutting-edge cooling systems to heating solutions that create cozy retreats during the winter season. Our selection is designed to cater to your specific needs, ensuring the pinnacle of indoor climate control. Elevate your indoor climate control with us today.
