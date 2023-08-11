@@ -1,5 +1,5 @@
 ---
-title: 'Our Mission'
+title: 'Quality Appliances'
 weight: 1
 background: 'images/kevin-bhagat-461952-unsplash.jpg'
 button: 'View Products'
