@@ -2,7 +2,7 @@
 title: 'Our Dedicated Service Area'
 weight: 2
 date: 2018-12-06T09:29:16+10:00
-background: ''
+background: 'https://source.unsplash.com/zx7VUt9txos/1600x700'
 align: left
 ---
 
