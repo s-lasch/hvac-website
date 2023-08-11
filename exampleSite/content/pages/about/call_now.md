@@ -8,4 +8,4 @@ button: 'Call Now'
 buttonLink: 'contact'
 ---
 
-We offer **emergency no-heat** or **no-AC** service calls **24/7**. Price varies according to business hours or after hours service calls. Call now for price inquiries.
+We offer **emergency no-heat** or **no-AC** service calls **24/7**. Prices vary depending on business-hour service calls, or after-hour service calls. Call now for price inquiries.
