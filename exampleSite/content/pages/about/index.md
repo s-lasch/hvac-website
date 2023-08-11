@@ -8,10 +8,10 @@ heroBackground: 'https://source.unsplash.com/sO-JmQj95ec/1600x1000'
 ---
 
 <div>
-{{< content-strip-right "/pages/about" "background" >}}
+{{< content-strip-left "/pages/about" "background" >}}
 </div>
 <div>
-{{< content-strip-left "/pages/about" "service_area" >}}
+{{< content-strip-right "/pages/about" "service_area" >}}
 </div>
 <div>
 {{< content-strip-center "/pages/about" "call_now" >}}
