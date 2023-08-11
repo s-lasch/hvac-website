@@ -7,10 +7,10 @@ align: left
 ---
 
 <style>
-  .opaque-gray-div {
-    background-color: rgba(230, 227, 227, 0.5); /* Light gray color with 50% opacity */
-    width: 300px;
-    height: 200px;
+  .opaque-gray-div {{
+    background: linear-gradient(rgba(230, 227, 227, 0.2), rgba(128, 128, 128, 0.5));
+    width: 100%;
+    height: 500px;
   }
 </style>
 
