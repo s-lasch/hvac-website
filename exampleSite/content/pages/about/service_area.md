@@ -10,7 +10,7 @@ align: left
   .opaque-gray-div {
     background: linear-gradient(rgba(230, 227, 227, 0.2), rgba(128, 128, 128, 0.75));
     width: 500px;
-    height: 700px;
+    height: 400px;
     padding: 10px;
   }
 </style>
