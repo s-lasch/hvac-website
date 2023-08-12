@@ -6,7 +6,7 @@ draft: false
 featured: true
 weight: 2
 heroHeading: 'Light Commercial'
-heroSubHeading: 'We offer light commercial heating and cooling services for businesses in and around the Conneaut Lake, Linesville, Meadville, Conneautville, and surrounding areas.'
+heroSubHeading: 'Your trusted partner in light commercial HVAC solutions.'
 heroBackground: 'services/service2.jpg'
 ---
 
@@ -30,7 +30,6 @@ If your existing HVAC system is outdated or inefficient, or is in need of repair
 
 Preventive maintenance is key to prolonging the lifespan of your heating and cooling systems. Our customizable maintenance plans are tailored to your specific needs, ensuring your systems operate smoothly year-round. Regular maintenance also helps in detecting potential issues before they escalate, reducing downtime and costly repairs.
 
-<br/>
 
 ### Why Choose Us:
 **Expertise:** We are a highly trained and experienced business in handling various light commercial HVAC systems, guaranteeing accurate diagnostics and effective solutions.
