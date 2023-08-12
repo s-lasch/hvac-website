@@ -1,7 +1,7 @@
 ---
 title: 'HVAC Installations'
 date: 2018-11-28T15:15:34+10:00
-icon: 'services/service-icon-4.png'
+icon: 'services/service-icon-2.png'
 featured: true
 draft: false
 heroHeading: 'HVAC Installations'
