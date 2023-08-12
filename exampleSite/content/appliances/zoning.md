@@ -5,7 +5,7 @@ draft: false
 weight: 2
 heroHeading: 'Zoning Brands'
 heroSubHeading: 'Independent temperature control'
-heroBackground: 'https://source.unsplash.com/iqGtaQnk3VM/1600x400'
+heroBackground: 'https://source.unsplash.com/fwgnat3kLlU/1600x400'
 thumbnail: 'https://source.unsplash.com/fwgnat3kLlU/600x400'
 images: ['https://source.unsplash.com/random/400x600/?nature', 
 'https://source.unsplash.com/random/400x300/?travel','https://source.unsplash.com/random/400x300/?architecture','https://source.unsplash.com/random/400x600/?buildings','https://source.unsplash.com/random/400x300/?city','https://source.unsplash.com/random/400x600/?business']
