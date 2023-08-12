@@ -12,7 +12,7 @@ heroBackground: 'services/service1.jpg'
 
 We specialize in providing comprehensive services, including **installations**, **maintenance**, **repair**, and **inspections**. Our mission is to ensure your home remains comfortable, no matter the season. We are dedicated and have a commitment to and a reputation for excellence. We are here to address all your personal HVAC needs.
 
-### Our Services:
+### Our Services
 
 <h4 style="color:rgb(28,62,211)">Installation</h4>
 
@@ -29,7 +29,7 @@ Facing an HVAC breakdown? Our technicians are equipped to handle a wide range of
 <h4 style="color:rgb(28,62,211)">Inspection</h4>
 When it comes to safety and efficiency, regular inspections are crucial. Our comprehensive inspection services cover all aspects of your heating and cooling systems. We meticulously check for leaks, proper airflow, electrical connections, and more to ensure your systems are operating at their best.
 
-<br/>
+<br></br>
 
 ### Why Choose Us:
 **Expertise:** Our company has highly skilled and certified technician who have extensive experience in working with various residential HVAC systems. You can trust us to deliver accurate diagnoses and effective solutions.
