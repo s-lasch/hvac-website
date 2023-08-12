@@ -17,5 +17,5 @@ align: right
 </style>
 
 <div class="opaque-gray-div">
-  <p>With <b>more than 30 years</b> in the HVAC industry, I, David Lasch, take immense pride in owning and leading this company My career in HVAC repair, installation, and maintenance began in Maryland, where I spend three years honing my skills at a prominent HVAC firm. My experiences there, in addition to my aspiration for owning a business of my own led me to establish David Lasch Heating & A/C on May 26th, 1993.</p>
+  <p>With <b>more than 30 years</b> in the HVAC industry, I, David Lasch, take immense pride in owning and leading this company. My career in HVAC repair, installation, and maintenance began in Maryland, where I spent three years honing my skills at a prominent HVAC firm. My experiences there, in addition to my aspiration for owning a business of my own, led me to establish David Lasch Heating & A/C on May 26th, 1993.</p>
 </div>
