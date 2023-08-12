@@ -3,7 +3,7 @@ title: 'Heating & Cooling Brands'
 date: 2018-11-18T12:33:46+10:00
 draft: false
 weight: 1
-heroHeading: 'Heating and cooling brands'
+heroHeading: 'Heating and Cooling Brands'
 heroSubHeading: 'General heating and cooling needs for residential and light commercial spaces.'
 heroBackground: 'https://source.unsplash.com/ndJlw4Bz-1Y/1600x400'
 thumbnail: 'https://source.unsplash.com/ndJlw4Bz-1Y/600x400'
