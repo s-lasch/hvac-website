@@ -4,7 +4,7 @@ date: 2018-11-18T12:33:46+10:00
 draft: false
 weight: 2
 heroHeading: 'Zoning Brands'
-heroSubHeading: 'Independent temperature control'
+heroSubHeading: 'Independent temperature control.'
 heroBackground: 'https://source.unsplash.com/fwgnat3kLlU/1600x400'
 thumbnail: 'https://source.unsplash.com/fwgnat3kLlU/600x400'
 images: ['https://source.unsplash.com/random/400x600/?nature', 
