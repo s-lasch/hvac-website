@@ -46,3 +46,5 @@ When it comes to safety and efficiency, regular inspections are crucial. Our com
 
 ### Contact Us:
 If you're looking for reliable residential heating and cooling services, we are just a call away. Let us ensure your home's comfort and safety through our expert maintenance, repair, and inspection services. Reach us at <a href="tel:+18147200772">(814) 720-0772</a> or [info@davidlaschhvac.com](mailto:info@davidlaschhvac.com) to schedule an appointment today.
+
+[Click here](https://davidlaschhvac.com/contact) to view our business hours.
