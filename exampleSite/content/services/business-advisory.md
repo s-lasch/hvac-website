@@ -1,64 +1,48 @@
 ---
-title: 'Business Advisory'
+title: 'HVAC Inspections'
 date: 2018-11-28T15:14:39+10:00
 icon: 'services/service-icon-2.png'
 featured: true
 draft: false
-heroHeading: 'Business Advisory'
-heroSubHeading: 'Expert advice and guidance when you need it most.'
+heroHeading: 'HVAC Inspections'
+heroSubHeading: 'Comprehensive residential HVAC inspection services.'
 heroBackground: 'services/service2.jpg'
 ---
 
-Lorem markdownum, dictis umbrosum dextrum, Lelegeia quamquam distantes pares
-ignisque quaerit dederat gemino Aethiopesque [caelo](#inque-ne-collocat)
-ulciscitur est. Morte [lugebere](#esse-ferro-nisi) conatur [Pallada
-quaerentes](#pia-non) tulit, **ignis vagatur undis**, latitantem ignemque non
-laevo. Terras seu favoni tectas movit hunc motuque damno tutoque quattuor. Leto
-duo arbore, tua paelice regnis scopulis ut Lachne Menoetae nigra repugnat
-Coroneus est qui viscere barbariam **seris**. Vim in quamquam colla ventura
-remos, Procne mane atque sic solent [non caelestibus](#iuvabat-limumque).
+We offer thorough and professional residential HVAC inspection services. We will assess your heating and cooling systems to ensure they are operating **efficiently**, **safely**, and **reliably**. Our comprehensive inspections provide valuable insights into your HVAC system's condition and longevity.
 
-## Inter pectore totidem
+### Our Inspection Services:
 
-Presserat [transitque inde](#diversa-iam-inter). Vel montes tum cohors Tityos
-lassavit nihil oracula exiguo ligatis.
+<h4 style="color:rgb(28,62,211)">Heating System Inspection</h4>
 
-## Novis hunc qua erat caecisque
+Our experienced technicians will meticulously inspect your heating system, from furnaces to heat pumps, to ensure they are functioning as intended. We'll identify any potential issues, such as gas leaks or worn-out components, providing you with the information you need for optimal performance.
 
-Et Aeneae, nivosos magos, donata in quod cum [terris](#loco-aris), cumque solum,
-manibus auro moenibus glaebas. Manus incaluere. Nunc audiat teneat dextra,
-finivit cui male venit moves! Senior et niger tepido parenti fuit, in ponit
-spectemur et opto speret. Ferum Neptunus tergore.
+<h4 style="color:rgb(28,62,211)">Cooling System Inspection</h4>
 
-Nunc erant super: sacra cingebant tandem: rogabam terras, ripa. Cum est scire
-est increpat, leaena ipsa venae me minus casusve tauri. Poscis sacrorum
-_congerit currus_ Hippotades poenas. Non capta, **saturatos tecti** dum versata,
-cum Phineu, nomina dataque rubenti ignorant non lymphata, ara.
+Stay cool and comfortable during the hottest months with a thorough cooling system inspection. We'll assess air conditioning units and other cooling equipment to verify their efficiency and address any potential concerns.
 
-## Naiades latuere rubenti tendere os Phrygum eminus
+<h4 style="color:rgb(28,62,211)">Ventilation and Ductwork Inspection</h4>
 
-Respondit et tela viae illas saetas prodidit facta novitate, iurare trahitur
-morte tecta [pugnabo](#se). Est age, paelicis vestigia tremor capillis carere
-formae ne ait modo. Considere suam anguicomae neque Amphitrite dixit
-[quamvis](#ardore-ruborem-nutrit) meri convicia et dotem, tunc aderis metu ego
-habenas nec domum humo? Esse orba suo pedem tandem, pignus qui me tellus a
-Acmona male exuere ecce; [pelagi](#sed), Procnen causam? Carpe vertice tua etiam
-interdum detinet nec tanta capillos spolieris tutoque ventos _Iunonis_ Iovis
-retemptat _rexit generumque_ fides.
+Proper airflow is essential for balanced temperatures and indoor air quality. Our inspection includes evaluating ventilation systems and ductwork to ensure your HVAC system can distribute conditioned air effectively.
 
-## Statuunt nais inponere tamen duodena aemulus mille
+<br></br>
 
-Feriat humilis recuset parum! Bitumine nati indignatus; longa nec vulnus cognita
-pondere, incola se non aut, frangitur! Cavis resoluta: ilia ardeat terraeque
-nova, adhuc! Ferox fertque tellus Iunonis: [virgineos sum](#tenues) contigerant
-terga pater, quod ore nam praecipiti levatus virilia Hylen. Inhaesit mucro,
-superum moveri late rota rapi avis amans _toto_, carpere reclinis pietas
-habenas, ne dici Canenti.
+### Why Choose Us
 
-1. Induruit huc grave simili
-2. Praecincti natos
-3. Ad dedit parentem
-4. Linguae pendent
+**Expertise:** Our technicians are highly trained and experienced in conducting detailed HVAC inspections. We have a keen eye for identifying even the smallest issues that might affect your system's performance.
 
-Non sensu est fecerat his rerum insignia verba, aeno nubila curvi. Tutus sibi
-isset; nec non ille vero abstulit, ite est. Digitoque ora ego aethera, comas?
+**Comprehensive Assessments:** We don't cut corners during our inspections. Our thorough approach ensures that we assess all aspects of your HVAC system, leaving no stone unturned.
+
+**Transparency:** We believe in transparent communication. If we identify any issues, we'll provide you with clear explanations and recommendations, empowering you to make informed decisions.
+
+**Preventive Insights:** Regular HVAC inspections can catch problems early, preventing potential breakdowns and costly repairs in the future. Our inspections help you maintain your system's longevity and efficiency.
+
+**Peace of Mind:** Whether you're a homeowner or involved in real estate transactions, our inspections provide peace of mind by ensuring your HVAC system is in good working order.
+
+<br></br>
+
+### Contact Us:
+
+If you're looking for reliable residential HVAC inspection services, we are here to assist you. Reach out to us at <a href="tel:+18147200772">(814) 720-0772</a> or [info@davidlaschhvac.com](mailto:info@davidlaschhvac.com) to schedule an inspection. Trust our expert team to evaluate your heating and cooling systems thoroughly, providing you with insights that contribute to a comfortable and efficient living environment.
+
+[Click here](https://davidlaschhvac.com/contact) to view our business hours.
