@@ -11,7 +11,7 @@ align: right
 /*     background: rgba(180,180,180,.8); */
     width: 100%;
     height: auto;
-    color: #549f9c;
+    color: #386B69;
 /*     padding: 10px; /* Add text padding  */
 /*     border-radius: 15px; /* Add rounded corners  */
   }
