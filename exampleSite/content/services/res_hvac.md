@@ -31,7 +31,7 @@ When it comes to safety and efficiency, regular inspections are crucial. Our com
 
 <br></br>
 
-### Why Choose Us:
+### Why Choose Us
 **Expertise:** Our company has highly skilled and certified technician who have extensive experience in working with various residential HVAC systems. You can trust us to deliver accurate diagnoses and effective solutions.
 
 **Prompt Response:** We understand that HVAC emergencies can disrupt your comfort. That's why we offer **24/7** emergency service calls, prioritizing quick response times. We will ensure that your HVAC issues are addressed in a timely manner.
@@ -44,7 +44,7 @@ When it comes to safety and efficiency, regular inspections are crucial. Our com
 
 <br/>
 
-### Contact Us:
+### Contact Us
 If you're looking for reliable residential heating and cooling services, we are just a call away. Let us ensure your home's comfort and safety through our expert maintenance, repair, and inspection services. Reach us at <a href="tel:+18147200772">(814) 720-0772</a> or [info@davidlaschhvac.com](mailto:info@davidlaschhvac.com) to schedule an appointment today.
 
 [Click here](https://davidlaschhvac.com/contact) to view our business hours.
