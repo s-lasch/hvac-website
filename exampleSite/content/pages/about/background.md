@@ -8,7 +8,7 @@ align: right
 
 <style>
   .opaque-gray-div {
-    background: rgba(190,190,190,.8);
+    background: rgba(190,190,190,.7);
     width: 100%;
     height: auto;
     padding: 10px; /* Add text padding  */
