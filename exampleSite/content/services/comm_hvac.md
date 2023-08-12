@@ -32,7 +32,7 @@ Preventive maintenance is key to prolonging the lifespan of your heating and coo
 
 <br/>
 
-### Why Choose Us:
+### Why Choose Us
 **Expertise:** We are a highly trained and experienced business in handling various light commercial HVAC systems, guaranteeing accurate diagnostics and effective solutions.
 
 **Prompt Service:** We understand the importance of a functioning HVAC system for your business. That's why we prioritize quick response times to address your heating and cooling emergencies.
@@ -45,9 +45,7 @@ Preventive maintenance is key to prolonging the lifespan of your heating and coo
 
 <br/>
 
-### Contact Us:
-Ready to enhance the comfort of your commercial space? Get in touch with our team today for reliable and professional light commercial heating and cooling services. You can reach us at <a href="tel:+18147200772">(814) 720-0772</a> or [info@davidlaschhvac.com](mailto:info@davidlaschhvac.com) today for price inquiries.
+### Contact Us
+Ready to enhance the comfort of your commercial space? Get in touch with us today for reliable and professional light commercial heating and cooling services. You can reach us at <a href="tel:+18147200772">(814) 720-0772</a> or [info@davidlaschhvac.com](mailto:info@davidlaschhvac.com) today for price inquiries.
 
-
-
-
+[Click here](https://davidlaschhvac.com/contact) to view our business hours.
