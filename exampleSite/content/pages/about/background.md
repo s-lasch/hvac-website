@@ -8,11 +8,12 @@ align: right
 
 <style>
   .opaque-gray-div {
-    background: rgba(180,180,180,.8);
+/*     background: rgba(180,180,180,.8); */
     width: 100%;
     height: auto;
-    padding: 10px; /* Add text padding */
-    border-radius: 15px; /* Add rounded corners */
+    color: #549f9c;
+/*     padding: 10px; /* Add text padding  */
+/*     border-radius: 15px; /* Add rounded corners  */
   }
 </style>
 
