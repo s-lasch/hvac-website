@@ -1,53 +1,51 @@
 ---
-title: 'Business Sales'
+title: 'HVAC Repairs'
 date: 2018-11-28T15:15:26+10:00
 icon: 'services/service-icon-3.png'
 featured: true
 draft: false
-heroHeading: 'Business Sales'
-heroSubHeading: 'We can help value your business and prepare it for sale.'
+heroHeading: 'HVAC Repairs'
+heroSubHeading: 'Comprehensive HVAC repair for residential and light commercial properties'
 heroBackground: 'services/service1.jpg'
 ---
 
-Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia
-vixque dixit negari _ullis stamina_: trahit. Tanta rictus in mitia causa, Phoebo
-nisi mater acta serpens cacumen dapibus caeli umidus detegeret viri conlato
-cadet! [Ego](#natisque-tot-traiecta) vitis imagine stagna insidias redigentur
-petunt dempserat dixisse, pro raptae aut male?
+Whether you're a homeowner or a business owner, we specialize in delivering reliable and professional repair solutions for your environment.
 
-- Dente reponere dixere referre excessitque seque
-- Tacui si cui inde haec ubi trepidas
-- Coniunx nulla aut
+### Our Repair Services
 
-## Geniti facinus praeruptam atris ab manus in
+<h4 style="rgb(28,62,211)">Heating System Repair</h4>
 
-Properas iubar, mercurio regalis caelo Cerberon tetigisset et pervia, maduere
-non _tangere_ tendens corpore sed. Sine genae ominibus cereris, pectebant tum
-[crudelia](#mutavit-lacertos), oscula. Veneris _rumpe tibi_ aliquis paenituisse;
-cum tanti pressus erat _ira magnumque videntem_; fit est misit nec. Est ea
-vacuum Eumelique futurae stringebat facti indicat Hesioneque candore parsque
-patiensque, Perrhaebum **illa**: querenti.
+From homes to small businesses, our skilled technicians are proficient in diagnosing and repairing a wide range of heating system issues. We'll ensure that your space remains warm and comfortable, even during the chilliest months.
 
-1. Deum sibi poma lacuque fateor
-2. Nisi vultibus adspicio totosque gladios a novatrix
-3. Regna ducebat
+<h4 style="rgb(28,62,211)">Cooling System Repair</h4>
 
-_Fuit_ eurus promissaque. Faciemque tibi pectore reditum disiecit iam sede
-**foret petebatur** atro, tibi fugienti deus abluit illa, **non**.
+We understand the importance of a cool environment, whether it's for your family's comfort at home or to create an inviting atmosphere for your customers. Our experts are well-equipped to address cooling system malfunctions and restore optimal cooling performance.
 
-## Vidit si probetne vertitur
+<h4 style="rgb(28,62,211)">Ventilation and Ductwork Repair</h4>
 
-In violenta et tamen praeterea populos meorum. Nos carissime Fortuna tellus aevo
-vestigia summae? Ad laedere portentificisque in olentes conbibit animi ad
-iuvenum **inamabile** perosae, **hostis foedantem Rutulos**.
+Proper airflow is essential for maintaining a consistent and comfortable indoor environment. We offer diagnostics and repairs for ventilation and ductwork issues, ensuring that your space is efficiently heated and cooled.
 
-1. Augusta exstinctus dempto repperit ut quati enim
-2. Quae illo sine fatorum
-3. Sub ut Hyadasque specus terraeque coniunx vix
-4. Voce addita est haec
-5. Stagnum pavido sanguine Priamo custodia sed
+<h4 style="rgb(28,62,211)">Component Replacement</h4>
 
-Iste gente Orpheus sua nec studiosior _et urit certe_ relevare comites vestibus?
-Digredimur _conbibitur citius induruit_ manes pressique Nyctimenen ille comas
-ductae in. Terret solebat misit; gestu erit ora Iunonis sine manus tacuit, carpe
-motibus; opem baculum.
+If a crucial component of your HVAC system is malfunctioning, our team is prepared to replace it with high-quality parts, restoring your system's functionality and efficiency.
+
+<br></br>
+
+### Why Choose Us
+
+**Versatile Expertise:** Whether you own a home or a light commercial property, our technicians have the knowledge and experience to address your HVAC repair needs with precision.
+
+**Prompt Response:** HVAC issues can lead to discomfort and disruptions. We prioritize swift responses to your service calls, minimizing any downtime and inconvenience.
+
+**Thorough Diagnostics:** Our approach involves identifying the underlying causes of issues, ensuring effective and lasting repairs that prevent future complications.
+
+**Transparency and Trust:** We value open communication and honesty. Our team will explain the issues and recommended repairs clearly, allowing you to make informed decisions.
+
+**Quality Assurance:** We use top-quality replacement parts and components, ensuring that our repairs stand up to the demands of residential and light commercial settings.
+
+<br></br>
+
+### Contact Us
+Whether it's your home or light commercial property that requires HVAC repairs, we here to help. Reach out to us at <a href="tel:+18147200772">(814) 720-0772</a> or [info@davidlaschhvac.com](mailto:info@davidlaschhvac.com) to schedule a repair service. 
+
+[Click here](https://davidlaschhvac.com/contact) to view our business hours.
