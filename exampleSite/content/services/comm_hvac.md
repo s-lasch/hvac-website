@@ -30,6 +30,7 @@ If your existing HVAC system is outdated or inefficient, or is in need of repair
 
 Preventive maintenance is key to prolonging the lifespan of your heating and cooling systems. Our customizable maintenance plans are tailored to your specific needs, ensuring your systems operate smoothly year-round. Regular maintenance also helps in detecting potential issues before they escalate, reducing downtime and costly repairs.
 
+<br/>
 
 ### Why Choose Us:
 **Expertise:** We are a highly trained and experienced business in handling various light commercial HVAC systems, guaranteeing accurate diagnostics and effective solutions.
@@ -42,6 +43,7 @@ Preventive maintenance is key to prolonging the lifespan of your heating and coo
 
 **Customer Satisfaction:** Our ultimate goal is your satisfaction. We work closely with you to understand your requirements and provide solutions that align with your budget and timeline.
 
+<br/>
 
 ### Contact Us:
 Ready to enhance the comfort of your commercial space? Get in touch with our team today for reliable and professional light commercial heating and cooling services. You can reach us at <a href="tel:+18147200772">(814) 720-0772</a> or [info@davidlaschhvac.com](mailto:info@davidlaschhvac.com) today for price inquiries.
