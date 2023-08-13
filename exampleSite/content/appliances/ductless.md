@@ -15,6 +15,8 @@ These brands specialize in ductless mini-split systems, which offer efficient he
 
 Ductless systems are known for their flexibility, energy efficiency, and individual room temperature control. These brands likely focus on providing various options within the ductless HVAC technology sector. We offer [Daikin](https://daikincomfort.com/products/heating-cooling/single-zone), [Airtemp](), and [Fujitsu](https://www.fujitsugeneral.com/us/residential/index.html) mini-split ductless systems. 
 
+<br></br>
+
 ### Benefits to Ductless Mini-Splits
 <h4 style="color:rgb(28,62,211)">Installation and Design</h4>
 
@@ -43,6 +45,7 @@ Ductless mini-splits can also provide heating in addition to cooling. They work 
 
 Ductless indoor units are designed to be sleek and unobtrusive, often resembling wall-mounted art pieces or air vents. This aesthetic appeal can enhance the interior design of a space.
 
+<br></br>
 
 ### Differences from Traditional Air Conditioning Systems:
 
