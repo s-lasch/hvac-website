@@ -17,12 +17,11 @@ For traditional HVAC systems, we offer [Guardian](https://www.guardianhomecomfor
 
 <style>
 .custom-table {
-  border-collapse: collapse;
+/*   border-collapse: collapse; */
   width: 100%;
 }
 
 .custom-table th, .custom-table td {
-  border: 1px solid black;
   padding: 8px;
   text-align: center;
 }
