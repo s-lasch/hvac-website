@@ -17,11 +17,12 @@ For traditional HVAC systems, we offer [Guardian](https://www.guardianhomecomfor
 
 <style>
 .custom-table {
-/*   border-collapse: collapse; */
+  border-collapse: collapse;
   width: 100%;
 }
 
 .custom-table th, .custom-table td {
+  border: 1px solid black;
   padding: 8px;
   text-align: center;
 }
@@ -29,53 +30,58 @@ For traditional HVAC systems, we offer [Guardian](https://www.guardianhomecomfor
 .custom-table th {
   background-color: #f2f2f2;
 }
+
+.left-align {
+  text-align: left;
+}
 </style>
+
 
 <table class="custom-table">
   <tr>
-    <th align="left">We Offer</th>
+    <th>We Offer</th>
     <th>Guardian</th>
     <th>Armstrong</th>
     <th>Payne</th>
   </tr>
   <tr>
-    <td align="left">Air Conditioners</td>
+    <td class="left-align">Air Conditioners</td>
     <td>✓</td>
     <td>✓</td>
     <td>✓</td>
   </tr>
   <tr>
-    <td align="left">Gas Furnaces</td>
+    <td class="left-align">Gas Furnaces</td>
     <td>✓</td>
     <td>✓</td>
     <td>✓</td>
   </tr>
   <tr>
-    <td align="left">Oil Furnaces</td>
+    <td class="left-align">Oil Furnaces</td>
     <td>X</td>
     <td>✓</td>
     <td>X</td>
   </tr>
   <tr>
-    <td align="left">Heat Pumps</td>
+    <td class="left-align">Heat Pumps</td>
     <td>✓</td>
     <td>✓</td>
     <td>✓</td>
   </tr>
   <tr>
-    <td align="left">Ductless Systems</td>
+    <td class="left-align">Ductless Systems</td>
     <td>X</td>
     <td>X</td>
     <td>X</td>
   </tr>
   <tr>
-    <td align="left">Air Handlers</td>
+    <td class="left-align">Air Handlers</td>
     <td>✓</td>
     <td>✓</td>
     <td>X</td>
   </tr>
   <tr>
-    <td align="left">Heat/Cool All-in-one</td>
+    <td class="left-align">Heat/Cool All-in-one</td>
     <td>✓</td>
     <td>✓</td>
     <td>✓</td>
