@@ -13,7 +13,7 @@ images: ['https://source.unsplash.com/random/400x600/?nature',
 
 Zoning systems are especially beneficial in larger homes, multi-story buildings, offices, and commercial spaces where the heating and cooling needs can vary significantly from one area to another.
 
-We offer the Arzel brand for HVAC zoning ventilation systems. Zoning systems divide a building or home into different zones, each with its own independent temperature control. This allows for more precise and customized climate control in different areas or rooms, rather than having a single, uniform temperature throughout the entire space.  
+We offer the [Arzel](https://www.arzelzoning.com/products/) brand for HVAC zoning systems. Zoning systems divide a building or home into different zones, each with its own independent temperature control. This allows for more precise and customized climate control in different areas or rooms, rather than having a single, uniform temperature throughout the entire space.  
 
 
 Benefits of a zoning system for HVAC include:
