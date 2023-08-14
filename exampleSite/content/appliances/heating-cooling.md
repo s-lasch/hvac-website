@@ -33,49 +33,49 @@ For traditional HVAC systems, we offer [Guardian](https://www.guardianhomecomfor
 
 <table class="custom-table">
   <tr>
-    <th>We Offer</th>
+    <th style="align:left">We Offer</th>
     <th>Guardian</th>
     <th>Armstrong</th>
     <th>Payne</th>
   </tr>
   <tr>
-    <td>Air Conditioners</td>
+    <td style="align:left">Air Conditioners</td>
     <td>✓</td>
     <td>✓</td>
     <td>✓</td>
   </tr>
   <tr>
-    <td>Gas Furnaces</td>
+    <td style="align:left">Gas Furnaces</td>
     <td>✓</td>
     <td>✓</td>
     <td>✓</td>
   </tr>
   <tr>
-    <td>Oil Furnaces</td>
+    <td style="align:left">Oil Furnaces</td>
     <td>X</td>
     <td>✓</td>
     <td>X</td>
   </tr>
   <tr>
-    <td>Heat Pumps</td>
+    <td style="align:left">Heat Pumps</td>
     <td>✓</td>
     <td>✓</td>
     <td>✓</td>
   </tr>
   <tr>
-    <td>Ductless Systems</td>
+    <td style="align:left">Ductless Systems</td>
     <td>X</td>
     <td>X</td>
     <td>X</td>
   </tr>
   <tr>
-    <td>Air Handlers</td>
+    <td style="align:left">Air Handlers</td>
     <td>✓</td>
     <td>✓</td>
     <td>X</td>
   </tr>
   <tr>
-    <td>Heat/Cool All-in-one</td>
+    <td style="align:left">Heat/Cool All-in-one</td>
     <td>✓</td>
     <td>✓</td>
     <td>✓</td>
