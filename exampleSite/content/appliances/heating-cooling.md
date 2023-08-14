@@ -22,7 +22,6 @@ For traditional HVAC systems, we offer [Guardian](https://www.guardianhomecomfor
 }
 
 .custom-table th, .custom-table td {
-  border: 1px solid black;
   padding: 8px;
   text-align: center;
 }
