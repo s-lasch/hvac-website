@@ -15,17 +15,70 @@ These brands primarily offer a wide range of traditional heating and cooling pro
 
 For traditional HVAC systems, we offer [Guardian](https://www.guardianhomecomfort.com/), [Armstrong](https://www.armstrongair.com/), and [Payne](https://www.payne.com/en/us/). 
 
-<style> table {
-  padding: 5px;
+<style>
+.custom-table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.custom-table th, .custom-table td {
+  border: 1px solid black;
+  padding: 8px;
+  text-align: center;
+}
+
+.custom-table th {
+  background-color: #f2f2f2;
 }
 </style>
 
-| We Offer             | Guardian | Armstrong | Payne |
-|:---------------------|:--------:|:---------:|:-----:|
-| Air Conditioners     |    ✓     |     ✓     |  ✓   |
-| Gas Furnaces         |    ✓     |     ✓     |  ✓   |
-| Oil Furnaces         |    X     |     ✓     |  X   |
-| Heat Pumps           |    ✓     |     ✓     |  ✓   |
-| Ductless Systems     |    X     |     X     |  X   |
-| Air Handlers         |    ✓     |     ✓     |  X   |
-| Heat/Cool All-in-one |    ✓     |     ✓     |  ✓   |
+<table class="custom-table">
+  <tr>
+    <th>We Offer</th>
+    <th>Guardian</th>
+    <th>Armstrong</th>
+    <th>Payne</th>
+  </tr>
+  <tr>
+    <td>Air Conditioners</td>
+    <td>✓</td>
+    <td>✓</td>
+    <td>✓</td>
+  </tr>
+  <tr>
+    <td>Gas Furnaces</td>
+    <td>✓</td>
+    <td>✓</td>
+    <td>✓</td>
+  </tr>
+  <tr>
+    <td>Oil Furnaces</td>
+    <td>X</td>
+    <td>✓</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>Heat Pumps</td>
+    <td>✓</td>
+    <td>✓</td>
+    <td>✓</td>
+  </tr>
+  <tr>
+    <td>Ductless Systems</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>Air Handlers</td>
+    <td>✓</td>
+    <td>✓</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>Heat/Cool All-in-one</td>
+    <td>✓</td>
+    <td>✓</td>
+    <td>✓</td>
+  </tr>
+</table>
