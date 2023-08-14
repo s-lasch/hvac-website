@@ -39,7 +39,7 @@ For traditional HVAC systems, we offer [Guardian](https://www.guardianhomecomfor
 
 <table class="custom-table">
   <tr>
-    <th>We Offer</th>
+    <th class="left-align">We Offer</th>
     <th>Guardian</th>
     <th>Armstrong</th>
     <th>Payne</th>
