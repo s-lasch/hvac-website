@@ -20,7 +20,7 @@ For traditional HVAC systems, we offer [Guardian](https://www.guardianhomecomfor
 | Air Conditioners     |    ✓     |     ✓     |  ✓   |
 | Gas Furnaces         |    ✓     |     ✓     |  ✓   |
 | Oil Furnaces         |    X     |     ✓     |  X   |
-| Heat Pumps           |    ✓     |     ✓     |  X   |
+| Heat Pumps           |    ✓     |     ✓     |  ✓   |
 | Ductless Systems     |    X     |     X     |  X   |
 | Air Handlers         |    ✓     |     ✓     |  X   |
 | Heat/Cool All-in-one |    ✓     |     ✓     |  ✓   |
