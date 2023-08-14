@@ -22,6 +22,7 @@ For traditional HVAC systems, we offer [Guardian](https://www.guardianhomecomfor
 }
 
 .custom-table th, .custom-table td {
+  border: 1px solid black;
   padding: 8px;
   text-align: center;
 }
@@ -32,6 +33,14 @@ For traditional HVAC systems, we offer [Guardian](https://www.guardianhomecomfor
 
 .left-align {
   text-align: left;
+}
+
+.green-check {
+  color: green;
+}
+
+.red-x {
+  color: red;
 }
 </style>
 
@@ -45,44 +54,44 @@ For traditional HVAC systems, we offer [Guardian](https://www.guardianhomecomfor
   </tr>
   <tr>
     <td class="left-align">Air Conditioners</td>
-    <td>✓</td>
-    <td>✓</td>
-    <td>✓</td>
+    <td class="green-check">✓</td>
+    <td class="green-check">✓</td>
+    <td class="green-check">✓</td>
   </tr>
   <tr>
     <td class="left-align">Gas Furnaces</td>
-    <td>✓</td>
-    <td>✓</td>
-    <td>✓</td>
+    <td class="green-check">✓</td>
+    <td class="green-check">✓</td>
+    <td class="green-check">✓</td>
   </tr>
   <tr>
     <td class="left-align">Oil Furnaces</td>
-    <td>X</td>
-    <td>✓</td>
-    <td>X</td>
+    <td class="red-x">X</td>
+    <td class="green-check">✓</td>
+    <td class="red-x">X</td>
   </tr>
   <tr>
     <td class="left-align">Heat Pumps</td>
-    <td>✓</td>
-    <td>✓</td>
-    <td>✓</td>
+    <td class="green-check">✓</td>
+    <td class="green-check">✓</td>
+    <td class="green-check">✓</td>
   </tr>
   <tr>
     <td class="left-align">Ductless Systems</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
+    <td class="red-x">X</td>
+    <td class="red-x">X</td>
+    <td class="red-x">X</td>
   </tr>
   <tr>
     <td class="left-align">Air Handlers</td>
-    <td>✓</td>
-    <td>✓</td>
-    <td>X</td>
+    <td class="green-check">✓</td>
+    <td class="green-check">✓</td>
+    <td class="red-x">X</td>
   </tr>
   <tr>
     <td class="left-align">Heat/Cool All-in-one</td>
-    <td>✓</td>
-    <td>✓</td>
-    <td>✓</td>
+    <td class="green-check">✓</td>
+    <td class="green-check">✓</td>
+    <td class="green-check">✓</td>
   </tr>
 </table>
