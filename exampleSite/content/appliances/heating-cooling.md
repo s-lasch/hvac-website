@@ -15,6 +15,11 @@ These brands primarily offer a wide range of traditional heating and cooling pro
 
 For traditional HVAC systems, we offer [Guardian](https://www.guardianhomecomfort.com/), [Armstrong](https://www.armstrongair.com/), and [Payne](https://www.payne.com/en/us/). 
 
+<style> table {
+  padding: 5px;
+}
+</style>
+
 | We Offer             | Guardian | Armstrong | Payne |
 |:---------------------|:--------:|:---------:|:-----:|
 | Air Conditioners     |    ✓     |     ✓     |  ✓   |
