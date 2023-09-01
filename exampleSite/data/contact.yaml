@@ -7,8 +7,8 @@ hours:
     open: 8:00am
     close: 5:00pm
   - day: Saturday
-    open: After hours
+    open: Open (after hours rates apply)
     close:
   - day: Sunday
-    open: After hours
+    open: Open (after hours rates apply)
     close: 
