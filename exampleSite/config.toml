@@ -12,7 +12,7 @@ theme = "hugo-hero-theme"
   unsafe= true
     
 [params]
-  google_analytics_id=""
+  google_analytics_id="G-NQN80ECTG9"
 
   [params.logo]
     mobile = "images/logo-mobile.svg"
