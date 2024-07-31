@@ -5,7 +5,7 @@ draft: false
 weight: 3
 heroHeading: 'Ductless Brands'
 heroSubHeading: 'Efficient and flexible cooling and heating solutions.'
-heroBackground: 'https://source.unsplash.com/53wcYH4IOig/1600x400'
+heroBackground: 'https://images.unsplash.com/photo-1590756254933-2873d72a83b6?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=500&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY4ODgwODY4Ng&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1600'
 thumbnail: 'https://coastalhvac.biz/wp-content/uploads/2017/01/PRO-smart-home-ac-setup-shutterstock_290444324-e1483636606426.jpg'
 images: ['https://source.unsplash.com/random/400x600/?nature', 
 'https://source.unsplash.com/random/400x300/?travel','https://source.unsplash.com/random/400x300/?architecture','https://source.unsplash.com/random/400x600/?buildings','https://source.unsplash.com/random/400x300/?city','https://source.unsplash.com/random/400x600/?business']
