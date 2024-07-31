@@ -5,8 +5,8 @@ draft: false
 weight: 2
 heroHeading: 'Zoning Brands'
 heroSubHeading: 'Independent temperature control.'
-heroBackground: 'https://unsplash.com/photos/close-photography-of-air-vent-qVXFewdVWn4'
-thumbnail: 'https://unsplash.com/photos/close-photography-of-air-vent-qVXFewdVWn4'
+heroBackground: 'https://images.unsplash.com/photo-1558358235-a0a93f68a52c'
+thumbnail: 'https://images.unsplash.com/photo-1558358235-a0a93f68a52c?w=600&h=400'
 images: ['https://source.unsplash.com/random/400x600/?nature', 
 'https://source.unsplash.com/random/400x300/?travel','https://source.unsplash.com/random/400x300/?architecture','https://source.unsplash.com/random/400x600/?buildings','https://source.unsplash.com/random/400x300/?city','https://source.unsplash.com/random/400x600/?business']
 ---
