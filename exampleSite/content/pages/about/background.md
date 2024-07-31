@@ -2,7 +2,7 @@
 title: 'Three Decades of HVAC Excellence'
 date: 2018-12-06T09:29:16+10:00
 weight: 1
-background: 'https://www.bwheatcool.com/wp-content/uploads/2024/03/ashkan-forouzani-JUAVCUMY008-unsplash.jpg'
+background: 'https://images.unsplash.com/photo-1713192704825-74a0017f585d?q=80&w=2942&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
 align: right
 ---
 
