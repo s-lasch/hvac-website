@@ -8,11 +8,14 @@ align: right
 
 <style>
   .opaque-gray-div {
-    background: rgba(190,190,190,.7);
+    background: linear-gradient(135deg, rgba(150, 150, 150, 0.7), rgba(220, 220, 220, 0.7)); /* Darker gray */
     width: 100%;
     height: auto;
-    padding: 10px; /* Add text padding  */
-    border-radius: 15px; /* Add rounded corners */
+    padding: 20px 30px; /* Increased padding for more breathing space */
+    border-radius: 25px; /* More rounded corners */
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1); /* Softer, larger shadow */
+    line-height: 1.6; /* Improve readability */
+    margin: 20px 0; /* Add margin to separate it from other elements */
   }
 </style>
 
